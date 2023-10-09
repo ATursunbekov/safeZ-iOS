@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "agorartcengine_ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AgoraIO/AgoraRtcEngine_iOS.git",
+      "state" : {
+        "revision" : "a37f354d28fcdf7566930ac387ebaef089c8c6e9",
+        "version" : "4.2.1"
+      }
+    },
+    {
+      "identity" : "agorartm_ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AgoraIO/AgoraRtm_iOS",
+      "state" : {
+        "revision" : "2e87ada22df8110cf85b9f18c2ac08083f4f63f4",
+        "version" : "1.5.1"
+      }
+    },
+    {
+      "identity" : "swift-algorithms",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-algorithms.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "288d8b00f2d7d746dce8997124f4a7d902100af7"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics",
+      "state" : {
+        "revision" : "0a5bc04095a675662cf24757cc0640aa2204253b",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "videouikit-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AgoraIO-Community/VideoUIKit-iOS.git",
+      "state" : {
+        "revision" : "d2d20302e3e328aa24008b00aad8e706b96381ff",
+        "version" : "4.1.1"
+      }
+    }
+  ],
+  "version" : 2
+}
